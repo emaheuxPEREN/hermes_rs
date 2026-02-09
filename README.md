@@ -17,7 +17,21 @@ For the sake transparency, the current dependencies are:
 
 A special thanks to [P1sec](https://github.com/P1sec/hermes-dec) for digging through the Hermes git repo, pulling all of the BytecodeDef files out, and tagging them. This made writing this tool much easier.
 
+
+---  
+
+# Bytecode Studio    
+
+[![Bytecode Studio](img/bytecodestudio.png)](https://bytecodestudio.com/?utm_source=blog&utm_medium=cta&utm_campaign=react_native_reverse_engineering)
+
+I created and launched [Bytecode Studio](https://bytecodestudio.com/?utm_source=blog&utm_medium=cta&utm_campaign=react_native_reverse_engineering) - a comprehensive tool built for reverse engineering, analyzing, disassembling, and decompiling React Native applications and Hermes binaries.  
+
+If you're using `hermes_rs` or any other tool for static analysis for an engagement or want a more comprehensive analysis and workflow, I'd use Bytecode Studio!  
+
+---
+
 - [hermes\_rs](#hermes_rs)
+- [Bytecode Studio](#bytecode-studio)
     - [Supported HBC Versions](#supported-hbc-versions)
       - [Known Issues \& Weirdness](#known-issues--weirdness)
         - [Slow(er) Performance on Large Files](#slower-performance-on-large-files)
